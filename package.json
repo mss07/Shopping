@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@mui/icons-material": "^6.1.0",
+    "react-countdown": "^2.3.6"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
