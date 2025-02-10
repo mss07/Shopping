@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-web/static/css/main.222faad1.css",
+    "main.js": "/Ecommerce-web/static/js/main.44eee5ae.js",
+    "static/js/453.419a5d54.chunk.js": "/Ecommerce-web/static/js/453.419a5d54.chunk.js",
+    "static/media/revicons.eot": "/Ecommerce-web/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Ecommerce-web/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Ecommerce-web/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Ecommerce-web/index.html",
+    "main.222faad1.css.map": "/Ecommerce-web/static/css/main.222faad1.css.map",
+    "main.44eee5ae.js.map": "/Ecommerce-web/static/js/main.44eee5ae.js.map",
+    "453.419a5d54.chunk.js.map": "/Ecommerce-web/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.222faad1.css",
+    "static/js/main.44eee5ae.js"
+  ]
+}
